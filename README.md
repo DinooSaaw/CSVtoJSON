@@ -12,7 +12,7 @@ The script will prompt you to enter the name of the input CSV file and the name 
 
 For example:
 
-    Enter the name of the input CSV file (or 'q' to quit): input_data
+    Enter the name of the input CSV file (or 'q' to quit): input_data.csv
     Enter the name of the output JSON file: output_data.json
 
 Once you have entered the input and output file names, the script will read in the CSV data, convert it to a JSON object, and write it to the output file. If the conversion is successful, the script will print a success message and prompt you to enter new file names or quit.
